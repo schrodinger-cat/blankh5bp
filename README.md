@@ -1,8 +1,7 @@
-# grunt-frontend-boilerplate
+# html5Boilerplate, Grunt, Sass
 
-> Simple Grunt boilerplate for frontend workflow
-
-Full information and instructions can be found in my supporting article, [A Beginner's Guide To Grunt: Redux](http://mattbailey.io/a-beginners-guide-to-grunt-redux/).
+Пустой шаблон для быстрого старта.
+Не хватает livereload, jade(может быть)
 
 ## Установка
 
@@ -40,7 +39,8 @@ grunt
 
 ---
 
-[Основано на](https://github.com/matt-bailey/grunt-frontend-boilerplate/)
+Основано на [этом](https://github.com/matt-bailey/grunt-frontend-boilerplate/)
+
 Created by [Matt Bailey](http://mattbailey.io/).
 
 Check out the supporting article, [A Beginner's Guide To Grunt: Redux](http://mattbailey.io/a-beginners-guide-to-grunt-redux/).
@@ -48,3 +48,5 @@ Check out the supporting article, [A Beginner's Guide To Grunt: Redux](http://ma
 Feel free to [Leave a comment](http://mattbailey.io/a-beginners-guide-to-grunt-redux/) on the article, or [post an issue](https://github.com/matt-bailey/grunt-frontend-boilerplate/issues) here on Github.
 
 A number of other task aliases are available, such as `grunt prod` and `grunt dev`. Full details can be found in the [accompanying article](http://mattbailey.io/a-beginners-guide-to-grunt-redux/).
+
+Full information and instructions can be found in my supporting article, [A Beginner's Guide To Grunt: Redux](http://mattbailey.io/a-beginners-guide-to-grunt-redux/).
