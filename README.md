@@ -35,6 +35,7 @@ grunt
 - [`grunt-contrig-jshint`](https://github.com/gruntjs/grunt-contrib-jshint)
 - [`jshint-stylish`](https://github.com/sindresorhus/jshint-stylish)
 - [`grunt-contrib-watch`](https://github.com/gruntjs/grunt-contrib-watch)
+- [`grunt-contrib-jade`](https://github.com/gruntjs/grunt-contrib-jade)
 
 
 ---
