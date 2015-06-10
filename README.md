@@ -1,7 +1,7 @@
-# html5Boilerplate, Grunt, Sass
+# html5Boilerplate, Grunt, Sass, Jade
 
 Пустой шаблон для быстрого старта.
-Не хватает livereload, jade(может быть)
+Не хватает livereload
 
 ## Установка
 
