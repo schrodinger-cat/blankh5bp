@@ -78,6 +78,24 @@ textarea {
 }
 
 /* ==========================================================================
+   Variables and mixins
+   ========================================================================== */
+
+    @mixin wrapper {
+        width: 975px;
+        margin : 0 auto;
+    }
+
+    @mixin border-radius($radius) {
+        -moz-border-radius: $radius;
+        -webkit-border-radius: $radius;
+        -ms-border-radius: $radius;
+        border-radius: $radius;
+    }
+
+    $dir: "/images//";
+
+/* ==========================================================================
    Web-decision custom styles
    ========================================================================== */
 
